@@ -1,0 +1,38 @@
+body
+{
+    background-color:skyblue
+    
+}
+.col-md-5
+{
+margin-top: 150px !important;
+background-color: slategray;
+padding: 20px;
+
+}
+
+input
+{
+margin-top: 20px !important;
+}
+button
+{
+    margin-top: 20px !important;
+    float: left;
+}
+
+.success
+{
+border: 3px solid green  !important ;
+}
+ .error
+ {
+    border: 3px solid red !important;
+ }
+ small
+ {
+    color: red;
+    font-stretch: bolder;
+    margin: 5px;
+    text-align: start !important;
+ }
