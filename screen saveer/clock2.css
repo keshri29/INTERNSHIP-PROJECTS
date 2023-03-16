@@ -1,0 +1,11 @@
+#clock {
+    font-size: 193px;
+    width: auto;
+    margin: 900x;
+    text-align:center;
+    border: 150px dashed black;
+    
+    }
+   body{
+        background-color: black;
+    }
