@@ -1,0 +1,53 @@
+/* .body{
+margin: 0%;
+padding: 0%;
+box-sizing: border-box;
+} */
+
+.topnav{
+    background-color: rgb(8, 8, 8);
+     overflow: hidden;
+     position: -webkit-sticky;
+     position: sticky;
+     top: 0;
+
+}
+.topnav h1{
+    float: right;
+    margin-left: 170px;
+    color: #f2f2f2;
+    text-align: center;
+    justify-content: center;
+    padding: 14px;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.topnav :hover{
+    color: blue;
+}
+/* .anurag{
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    justify-content: center;
+    padding: 24px;
+    text-decoration: none;
+    font-size: 20px;
+} */
+
+
+/* .anurag{
+    background-color: rgb(8, 8, 8);
+    overflow: hidden;
+    position: relative;
+}
+.anurag{
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    justify-content: center;
+    padding: 24px;
+    text-decoration: none;
+    font-size: 20px;
+} */
